@@ -35,7 +35,8 @@ body {
 
 .interesting-fact {
 	font-style: italic;
-	margin-left: 5px;
+	margin-left: 10px;
+	font-size: 80%;
 }
 
 .list {
@@ -47,5 +48,5 @@ body {
 }
 
 .description {
-	margin-left: 5px;
+	margin-left: 10px;
 }
